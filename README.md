@@ -6,78 +6,63 @@
 
 #
 
-Meu nome é Rhenne, tenho 24 anos e sou estudante de Ciência de Dados. Atualmente estou desenvolvendo meus conhecimentos em Python, SQL e Banco de Dados, com interesse em Back-end, análise de dados e tecnologia. "[RhenneSan](https://www.linkedin.com/in/rhenne-santos-as)".
- 
+Meu nome é **Rhenne**, tenho 24 anos e sou estudante de **Ciência de Dados**. Atualmente estou desenvolvendo meus conhecimentos em **Python, SQL e Banco de Dados**, com interesse em **Back-end, análise de dados e tecnologia**.
+
+Gosto de aprender na prática, desenvolvendo projetos e buscando constantemente evoluir minhas habilidades em programação.
+
 #
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:rhenne279@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https:///linkedin.com/in/rhenne-santos-as)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge\&logo=microsoft-outlook\&logoColor=FF00F6\&color\:FFF)](mailto:rhenne279@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=FF00F6\&color\:FFF)](https://www.linkedin.com/in/rhenne-santos-as/)
 
-<h3 align="left">My Stack </h3>
+<h3 align="left">My Stack ~</h3>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+<img
+ align="left"
+ alt="Python"
+ title="Python"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
 <img
-    align="left"
-    alt="Github"
-    title="GitHub"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+ align="left"
+ alt="SQL Server"
+ title="SQL Server"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
 
 <img
-    align="left"
-    alt="SQL SERVER"
-    title="SQL SERVER"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+ align="left"
+ alt="MySQL"
+ title="MySQL"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 
 <img
-    align="left"
-    alt="Postgresql"
-    title="Postgresql"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+ align="left"
+ alt="Git"
+ title="Git"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<img
+ align="left"
+ alt="GitHub"
+ title="GitHub"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 
 <br/>
@@ -86,25 +71,38 @@ Meu nome é Rhenne, tenho 24 anos e sou estudante de Ciência de Dados. Atualmen
 <h3 align="left">GitHub Stats</h3>
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-nine-snowy-24.vercel.app/api?username=RhenneSAs&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats-nine-snowy-24.vercel.app/api?username=RhenneSAs&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Statistics"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=RhenneSAs&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
-  />
+<img
+ align="left"
+ alt="Top Languages"
+ height="200"
+ src="https://github-readme-stats-nine-snowy-24.vercel.app/api/top-langs/?username=RhenneSAs&layout=compact&custom_title=My%20Stack&langs_count=8&theme=tokyonight&hide_border=true"
+/>
 
 </p>
 
+<br/>
+<br/>
+<br/>
+
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RhenneSAs/RhenneSAs/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RhenneSAs/RhenneSAs/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RhenneSAs/RhenneSAs/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/RhenneSAs/RhenneSAs/output/github-contribution-grid-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/RhenneSAs/RhenneSAs/output/github-contribution-grid-snake.svg">
+
+  <img
+    align="center"
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/RhenneSAs/RhenneSAs/output/github-contribution-grid-snake.svg">
 </picture>
