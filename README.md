@@ -18,7 +18,7 @@ Gosto de aprender na prática, desenvolvendo projetos e buscando constantemente 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=FF00F6\&color\:FFF)](https://www.linkedin.com/in/rhenne-santos-as/)
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">My Stack </h3>
 
 <img
  align="left"
